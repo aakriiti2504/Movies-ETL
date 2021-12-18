@@ -51,14 +51,21 @@ MovieLens is a website run by the GroupLens research group at the University of 
 ## Code and Results:
 - Deliverable 1: Write an ETL Function to Read Three Data Files
 
+The code can be found in the ETL_function_test.ipynb file
 
 - Deliverable 2: Extract and Transform the Wikipedia Data
+
+The code can be found in the ETL_clean_wiki_movies.ipynb file
 
 
 - Deliverable 3: Extract and Transform the Kaggle data
 
+The code can be found in the ETL_kaggle_data.ipynb file
+
 
 - Deliverable 4: Create the Movie Database
+
+The code can be found in the ETL_create_database.ipynb
 
 
 ## Summary:
