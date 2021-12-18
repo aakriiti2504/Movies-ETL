@@ -62,7 +62,7 @@ MovieLens is a website run by the GroupLens research group at the University of 
 
 
 ## Summary:
-
+Hence after our analysis it can be found out that the movies table has count 6052 entries and the rating table has 26024289 count.
 
 ## References:
 
