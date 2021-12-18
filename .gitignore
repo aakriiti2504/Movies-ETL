@@ -2,7 +2,8 @@
 config.py
 
 # Adding additional files
-*.csv
+*movies_metadata.csv
+ratings.csv
 
 
 # Byte-compiled / optimized / DLL files
