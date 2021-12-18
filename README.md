@@ -71,6 +71,9 @@ The code can be found in the ETL_create_database.ipynb
 ## Summary:
 Hence after our analysis it can be found out that the movies table has count 6052 entries and the rating table has 26024289 count.
 
+## Note:
+Because of the huge size of the .csv files, I have created a sample .csv file with 1000 rows only. It is located in th eResources folder. Please use these files to run the analysis.
+
 ## References:
 
 - https://courses.bootcampspot.com/courses/791/pages/8-dot-2-1-extract-the-wikipedia-movies-json?module_item_id=301206
